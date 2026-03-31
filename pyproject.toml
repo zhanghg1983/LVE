@@ -1,0 +1,10 @@
+[project]
+name = "lve"
+version = "0.1.0"
+description = "LVE MVP"
+authors = ["zhanghg1983 <54789818+zhanghg1983@users.noreply.github.com>"]
+requires-python = ">=3.8"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
